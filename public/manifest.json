@@ -1,0 +1,10 @@
+{
+  "name": "WiFi Smart Remote",
+  "short_name": "SmartRemote",
+  "description": "Control your PC and Smart TV over WiFi",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "orientation": "portrait"
+}

@@ -34,3 +34,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Large binaries & secrets
+/bin/cloudflared
+tv_certs.json
+*.log
+
